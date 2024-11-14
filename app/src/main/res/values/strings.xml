@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModel(Practice)</string>
+    <string name="words_Guess">Guess 1..100</string>
+</resources>
